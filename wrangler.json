@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "build-logic-time-test",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "adeef25e-3746-405b-891c-269a0924016f",
+			"database_name": "build-logic-time"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
